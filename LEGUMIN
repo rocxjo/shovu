@@ -1,0 +1,15 @@
+Kiel uzi Shovu?
+
+0. Instalu Python.
+
+1. Konservu la programon en iu facile trovebla loko. Mi rekomendas vian hejman dosierujon.
+
+2. Malfermu terminalon kaj tajpu "python shovu.py" (se ĝi ne troviĝas tie, tajpu "python Dokumentoj/shovu.py" aŭ ion similan).
+
+3. Tajpu la lokon de la subtekstdosiero, kaj poste kopiu kaj algluu la nomon. Ekzemple "Filmoj/Esperanto Estas/Esperanto-Estas-nl.srt". Ne tajpu la citilojn.
+
+4. Tajpu numeron, kiom da sekundoj vi volas ŝovi la tekston. Se la teksto venas malfrue, aldonu -. Uzu punkton anstataŭ komo por dividi decimalojn.
+
+5. Vi nun vidas en la terminalo antaŭmontron de la dosiero. Se ĝi ne enhavas erarojn, tajpu "j" al la demando.
+
+6. Aldonu la anstataŭigitan subtekstdosieron al la filmo kaj spektu.
