@@ -1,0 +1,15 @@
+Hoe gebruik ik Schuif?
+
+0. Installeer Python.
+
+1. Sla het programma op een makkelijk vindbare plaats op. Ik raad je thuismap aan.
+
+2. Open een terminal en typ "python schuif.py" (of als het daar niet is, typ "python Documents/shovu.py" oid).
+
+3. Typ de locatie van het ondertitelbestand, en kopieer en plak de bestandsnaam erachter. Bijvoorbeeld "Movies/Esperanto Estas/Esperanto-Estas-nl.srt". Zonder aanhalingstekens.
+
+4. Typ een getal, hoeveel seconden je de tekst wilt verschuiven. Voeg als de tekst te laat is een - toe. Gebruik een punt in plaats van een komma voor de decimalen.
+
+5. Je ziet nu in de terminal hoe het bestand eruit gaat zien. Als er geen fouten in zitten, typ dan "j" na de vraag.
+
+6. Voeg het gewijzigde ondertitelbestand toe aan de film en speel.
